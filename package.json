@@ -1,0 +1,9 @@
+{
+  "name": "check-ethereum-account-balance-with-solidity",
+  "version": "1.0.0",
+  "description": "Use solidity to check the balance of any ethereum account by its address",
+  "main": "MyBalanceContract.sol",
+  "keywords": ["Blockchain", "Ethereum", "Smart Contracts", "Solidity", "Account Balance", "Remix"],
+  "author": "Agustin Cassani",
+  "license": "MIT"
+}
